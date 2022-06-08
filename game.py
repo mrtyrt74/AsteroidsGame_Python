@@ -1,5 +1,4 @@
-'''Created by FURKAN SELCUK, MERT YURT and METE YURT
-SE 383 01 Python Programming by Dr. Huseyin Aygun'''
+'''Created by MERT YURT and METE YURT'''
 
 from __future__ import division
 import math, sys, os, datetime, random, pygame
